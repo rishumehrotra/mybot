@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 My personal chatbot
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+My personal chatbot
 
 ## Demo App
 
